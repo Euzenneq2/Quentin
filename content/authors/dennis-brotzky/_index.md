@@ -1,9 +1,9 @@
 ---
 title: Jonathan Euzenne
-bio: |
-  Written by You. This is where your author bio lives. Share your work, your
-  joys and of course, your Twitter handle.
-avatar: "/images/dennis-brotzky.jpg"
+bio: 'Lol
+
+'
+avatar: "/images/photo-profil-jonathan-euzenne.jpg"
 featured: true
 social:
 - title: unsplash
